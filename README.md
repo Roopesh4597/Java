@@ -1,3 +1,4 @@
 # Java
 CoreJava Concepts
 
+Encapsulation
